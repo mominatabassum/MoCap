@@ -1,5 +1,5 @@
 🎓 **Final Year Project – Real-Time Motion Capture System**
-We are a group of three Electrical Engineering students from NUST SEECS. For our Final Year Project, we developed a real-time motion capture system using ICM-20498 IMU sensors and ESP32 microcontrollers to animate a 3D character in Blender.
+ -  We are a group of three Electrical Engineering students from NUST SEECS. For our Final Year Project, we developed a real-time motion capture system using ICM-20498 IMU sensors and ESP32 microcontrollers to animate a 3D character in Blender.
 
 **🔧 Key Features**
   1. Real-time tracking of full-body movements
